@@ -1,0 +1,12 @@
+.footer-section{
+    background:rgb(15, 5, 53);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100px;
+}
+
+.footer-text{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: rgb(131, 122, 168)
+}

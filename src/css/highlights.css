@@ -1,0 +1,54 @@
+.highlights-panel{
+    background:rgb(229,229,229);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 600px;
+}
+.paneltitle1{
+    text-align: center !important;
+    padding-top: 90px;
+    font-size: 40px;
+    text-transform: capitalize;
+}
+.paneltitle2{
+    text-align: center !important;
+}
+
+.panelbody1{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.panelbody2{
+    margin-top: -10px;
+    font-size: 20px;
+}
+.grid{
+    margin-top: 80px;
+    
+}
+.grid2{
+    margin-top: 30px;
+    padding-bottom: 90px;
+    
+}
+.tiles{
+    /* margin-top: 100px; */
+    border: 2px solid rgb(190, 189, 189);
+    padding: 20px
+}
+.tiles2{
+    border: 2px solid rgb(190, 189, 189);
+    padding: 20px
+}
+.tilestitle{
+    font-size: 25px;
+}
+.tilestitle i{
+    float: right;
+    color: grey;
+}
+.tilesbody{
+    margin-top: 20px;
+    font-size: 12px;
+}
+

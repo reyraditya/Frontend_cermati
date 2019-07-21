@@ -1,0 +1,60 @@
+.header-section{
+    background-image: url(../resources/work-desk__dustin-lee.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 600px;
+}
+
+.blue-overlay{
+    position: relative;
+    top: 0;
+    left: 0%;
+    width: 100%;
+    min-height: 700px;
+    background: rgba(36, 69, 129, 0.5)
+}
+
+.logo{
+    width: 50px;
+}
+.hero-shot{
+    color: white;
+    text-align: center;
+}
+.headline{
+    font-size: 40px;
+    font-weight: 300;
+    margin-top: 100px; 
+}
+.headline1{
+    margin-top: -20px;
+    font-size: 35px;
+    font-weight: 500;
+}
+.headline2{
+    margin-top: 5px;
+    font-size: 23px;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+}
+.headline3{
+    margin-top: -15px;
+    font-size: 23px;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+}
+.button-headline{
+    color: white;
+    border: 2px solid white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: 700;
+}
+
+.button-headline:hover{
+    background-color: white;
+    color:  rgb(0, 74, 117)
+}

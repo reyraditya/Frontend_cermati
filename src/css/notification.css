@@ -1,0 +1,16 @@
+.notification-board{
+    min-height: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: rgb(229,229,229);
+    width: 1450px !important;
+}
+
+.notification-board span{
+    color: #0466a0
+}
+
+.notif{  
+    padding-left: 400px;
+    font-size: 15px;
+}
